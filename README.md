@@ -13,3 +13,5 @@ Creating an App (Notebook/app.py and Notebook/menu.py)
  5.  Quit
 
 Basic Inheritance (objects_are_alike.py)
+ - Creation of the *class **Contact***.
+ - Extended *class **Contact*** with *class **Suppliers***.
